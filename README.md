@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitamreik&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&show_icons=true)
 ![GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=Kitamreik)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitamreik&custom_title=[TITLE]&apos;s%20%Top%20%Languages) (edited) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitamreik&custom_title=Kit&apos;s%20%Top%20%Languages) (edited) 
