@@ -12,13 +12,9 @@ You can click the Preview link to take a look at your changes.
 ![GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=Kitamreik)
 --->
 
+## GitHub Stats
 | <a href="https://github.com/kitdamreik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kitamreik&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&show_icons=true" alt="Kit's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitamreik&custom_title=Kit&apos;s%20%Top%20%Languages"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitamreik&custom_title=Kit&apos;s%20%Top%20%Languages" /></a> |
 | ------------- | ------------- |
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kitamreik&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kitamreik&custom_title=Kit&apos;s%20%Top%20%Languages) (edited) 
 
 ## Languages and Tools:
 <div align="left">
