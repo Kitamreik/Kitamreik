@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=Kitamreik)
 --->
 
-| <a href="https://github.com/kitdamreik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kitdamreik&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kit's github stats" /></a> | <a href="https://github.com/kitdamreik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitdamreik&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/kitdamreik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kitamreik&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&show_icons=true" alt="Kit's github stats" /></a> | <a href="https://github.com/kitdamreik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kitamreik&show_icons=true&count_private=true&title_color=f97316&text_color=000000&icon_color=f97316&bg_color=ffffff&show_icons=true" /></a> |
 | ------------- | ------------- |
 
 ## GitHub Stats
