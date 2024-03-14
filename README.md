@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=Kitamreik)
 --->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kidtamreik&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kit's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitdamreik&theme=github_dark&layout=compact&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kitdamreik&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Kit's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitdamreik&theme=github_dark&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## GitHub Stats
