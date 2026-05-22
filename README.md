@@ -10,10 +10,11 @@ Kitamreik/Kitamreik is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 
 ![GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=Kitamreik)
---->
 
 ## GitHub Stats
 | <a href="https://github.com/kitdamreik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kitamreik" alt="Kit's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitamreik&custom_title=Kit&apos;s%20%Top%20%Languages"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kitamreik&custom_title=Kit&apos;s%20%Top%20%Languages" /></a> |
+--->
+
 | ------------- | ------------- |
 
 ## Languages and Tools:
